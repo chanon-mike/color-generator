@@ -1,9 +1,5 @@
 # Color Generator
 
-## About <a name = "about"></a>
-
 Simple color generator website using html, css and javascript.
 
-## Usage <a name = "usage"></a>
-
-Add notes about how to use the system.
+![image](https://user-images.githubusercontent.com/27944646/208300957-34bf7b19-d3a4-433e-a908-1f96467ce249.png)
